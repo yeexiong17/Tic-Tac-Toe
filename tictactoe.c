@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 
 void displayTTT(char arr[]);
 void chooseBox1(char arr[]);
